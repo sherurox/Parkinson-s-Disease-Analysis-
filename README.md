@@ -71,11 +71,15 @@ This section presents the analyzed **movement data** of a Parkinson’s Disease 
 - **Deep Brain Stimulation (DBS) trials** show improved ankle movement consistency.
 - **Pharmacological interventions (e.g., Levodopa)** reduce motion irregularities, as indicated in post-medication assessments.
 
----
-
 ## 📈 Visualization
 <img width="443" alt="image" src="https://github.com/user-attachments/assets/f9903f82-b2c7-467d-a201-c0fae1704795" />
 
+## Authors & Acknowledgments
+This research was conducted by Shreyas Khandale (me) and <br>
+Rohan Patil (https://github.com/rohanpatil2), published in IJRASET, October 2023. <br>
+
+## 📄 License
+This project is licensed under the MIT License – see the LICENSE file for details.<br>
 
 
 
