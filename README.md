@@ -76,7 +76,7 @@ This section presents the analyzed **movement data** of a Parkinson’s Disease 
 
 ## Authors & Acknowledgments
 This research was conducted by Shreyas Khandale (me) and <br>
-Rohan Patil (https://github.com/rohanpatil2), published in IJRASET, October 2023. <br>
+Rohan Patil (https://github.com/rohanpatil2)
 
 ## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.<br>
